@@ -1,6 +1,3 @@
-Here is the complete **Frontend README.md** for QuickShare. It incorporates the project description you provided, adapted to explain the application from the user interface perspective, while matching your specific folder structure and tech stack.
-
-***
 
 # QuickShare Frontend
 
